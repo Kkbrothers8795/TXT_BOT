@@ -8,10 +8,7 @@ API_HASH ="e743e5a4f35076e4c558a4bd713082e9"
 BOT_TOKEN = "7907920004:AAG18EpyWZKX27apayhahGDsQ8tB3NqBW-0"
 OWNER = "7788212890"
 CREDIT = "kIRODWAL"
-AUTH_USER = os.environ.get('7788212890').split(',')
-AUTH_USERS = [int(user_id) for user_id in AUTH_USER]
-if int(OWNER) not in AUTH_USERS:
-    AUTH_USERS.append(int(OWNER))
+AUTH_USER = '7788212890'
   
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
