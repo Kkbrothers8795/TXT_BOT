@@ -9,6 +9,6 @@ BOT_TOKEN = "7907920004:AAG18EpyWZKX27apayhahGDsQ8tB3NqBW-0"
 OWNER = "7788212890"
 CREDIT = "kIRODWAL"
 AUTH_USER = '7788212890'
-  
+AUTH_USERS = '7788212890'
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
